@@ -1,24 +1,26 @@
-# Sumile Turki's Portfolio
+# I'm Tijani Ayomide
 
-## Greeting
-سلام 👋, I'm Sumile Turki
+**Software Engineer | Technical Writer | Aspiring Principal Engineer**
 
-## Title
-**Software Developer | Technical Writer✍️ | Aspiring Principal Engineer**
+おい
 
 ## Pronouns
 He/Him
 
 ## Contact
-- Email: [sumileturki@example.com](mailto:sumileturki@example.com)
-- GitHub: [sumileturki](https://github.com/sumileturki)
-- LinkedIn: [Sumile Turki](https://www.linkedin.com/in/sumile-turki/)
+- Email: [ayomidetijani6@gmail.com](mailto:ayomidetijani6@gmail.com)
 
 ## Inspiration
-- **Source:** Urdu Philosoph
-- **Content:** بہتری
-- **Concept:** behtari
+- **Source:** Japanese philosophy
+- **Content:** 改善
+- **Concept:** Kaizen
 - **Meaning:** Continuous improvement
 
 ## About Me
-Hello! I'm Sumile Turki, a software developer dedicated to crafting reliable and user-friendly applications. With a strong foundation in JavaScript, HTML,C++, Java, and Python, I enjoy collaborating on innovative projects that push the boundaries of technology. I thrive in team environments, leveraging exceptional communication skills to solve complex problems. If you're excited about technology and collaboration, feel free to connect with me on GitHub or LinkedIn. Let's build something amazing together!
+Hey there! I'm Tijani Ayomide (Tijan), a software engineer with a knack for crafting reliable and user-friendly systems. I've dabbled in diverse technologies and honed my skills in crafting clean and efficient code.
+
+I thrive in collaborative environments and pride myself on being a dedicated team player with exceptional communication skills. Whether it's solving complex problems or brainstorming innovative solutions, I'm committed to achieving collective goals while continuously pushing the boundaries of what's possible.
+
+If you're passionate about technology and love to collaborate on exciting projects, don't hesitate to reach out! I'm always eager to connect with fellow developers and explore new opportunities for growth and innovation.
+
+## Latest Articles
